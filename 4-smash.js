@@ -1,5 +1,5 @@
 // WPU Codding Challenge 2024
-// 3/366
+// 4/366
 // https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 function smash(words) {
