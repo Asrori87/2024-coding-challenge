@@ -12,3 +12,6 @@ console.log(stringToArray(""));
 // Examples
 // "Robin Singh" ==> ["Robin", "Singh"]
 // "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
+
+// pembelajaran:
+// String.prototype.split()
