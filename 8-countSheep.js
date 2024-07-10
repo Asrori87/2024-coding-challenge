@@ -1,5 +1,5 @@
 // WPU Codding Challenge 2024
-// */366
+// 8/366
 // https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
 
 // versi barbar
