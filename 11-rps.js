@@ -24,7 +24,11 @@
 
 // menggunakan object
 const rps = (p1, p2) => {
-  const choices = { rock: "scissors", paper: "rock", scissors: "paper" };
+  const choices = {
+    rock: "scissors",
+    paper: "rock",
+    scissors: "paper",
+  };
 
   return p1 === p2 ? "Draw!" : `Player ${choices[p1] === p2 ? "1" : "2"} won!`;
 };
