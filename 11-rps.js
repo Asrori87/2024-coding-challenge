@@ -31,6 +31,8 @@ const rps = (p1, p2) => {
   };
 
   return p1 === p2 ? "Draw!" : `Player ${choices[p1] === p2 ? "1" : "2"} won!`;
+
+  // masih ngga ngerti maksud " choices[p1] "
 };
 
 // Test cases
